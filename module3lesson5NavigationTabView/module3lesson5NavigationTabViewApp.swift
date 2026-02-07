@@ -11,7 +11,7 @@ import SwiftUI
 struct module3lesson5NavigationTabViewApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationViewComponent()
         }
     }
 }
